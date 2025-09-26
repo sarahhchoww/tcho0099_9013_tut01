@@ -2,4 +2,13 @@
 
 # HEADING 1
 
-## markup language
+## HEADING 2
+
+### HEADING 3
+
+This is some normal text
+
+```
+function helloWorld() {
+console.log("hello, world!");
+}
