@@ -11,7 +11,8 @@ The idea for the major project is inspired by the work of Chuck Chase. In Image 
 ![Image 1 Artwork by Chuck Chase](Artwork_of_Chuck_Chase.png "Image 1 - Artwork by Chuck Chase")
 *Image 1 - Artwork by Chuck Chase*
 
-[Video 1 - Inspiration by manasvihow](https://editor.p5js.org/manasvihow/sketches/TnI2BDD1Z)
+![Video 1 Inspiration from manasvihow](Inspiration_from_manasvihow.png "Video 1 Inspiration from manasvihow")
+[*Video 1 - Inspiration by manasvihow*](https://editor.p5js.org/manasvihow/sketches/TnI2BDD1Z)
 
 **This is some bold text**
 *This is some italics text*
